@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,aACF,CACA,QACE,eAAgB,CAChB,eACF","file":"main.1db7f99f.chunk.css","sourcesContent":[".App {\n  text-align: center;\n  color: #3476fe;\n}\n.App h1 {\n  font-size: 100px;\n  font-weight: bold;\n}\n"]}
